@@ -1,3 +1,11 @@
+# Fork of original Infusionsoft SDK to support Laravel 10.x
+
+There's an open PR that has been around since April, 2022, that would solve the dependency issue, but isn't being merged:
+
+https://github.com/infusionsoft/infusionsoft-php/pull/297
+
+This fork is the only way to install Infusionsoft sdk with Laravel 10 until the PR is merged.
+
 # Infusionsoft PHP SDK
 
 [![Build Status](https://travis-ci.org/infusionsoft/infusionsoft-php.png?branch=master)](https://travis-ci.org/infusionsoft/infusionsoft-php)
